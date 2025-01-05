@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import React from 'react';
-import { FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import phone from "../assets/phone.png";
 import mail from "../assets/mail.png";
 
