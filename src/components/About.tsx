@@ -30,7 +30,7 @@ const About = () => {
                 />
                 <div className="flex flex-col mt-4">
                     <h2 className='text-2xl font-bold text-white/80'>Right Now</h2>
-                    <p className='text-lg text-white/70 mt-2'>I'm constantly exploring new areas of technology, including AI, blockchain, IOT, MR, and robotics.</p>
+                    <p className='text-lg text-white/70 mt-2'>Im constantly exploring new areas of technology, including AI, blockchain, IOT, MR, and robotics.</p>
                 </div>
             </div>
         </div>
@@ -75,7 +75,7 @@ const About = () => {
                 />
                 <div className="flex flex-col mt-4">
                     <h2 className='text-2xl font-bold text-white/80'>Also</h2>
-                    <p className='text-lg text-white/70 mt-2'>Involved in entrepreneurship. Whether it's collaborating on a startup or creating designs that inspire, I'm dedicated to delivering impactful solutions.</p>
+                    <p className='text-lg text-white/70 mt-2'>Involved in entrepreneurship. Whether its collaborating on a startup or creating designs that inspire, Im dedicated to delivering impactful solutions.</p>
                 </div>
             </div>
         </div>
