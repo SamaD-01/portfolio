@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "SAMAD PORTFOLIO",
+  title: "Abdessamad AJJA portfolio website | Full-Stack web developper",
   description: "Portfolio of Abdessamad AJJA created with Next.js and Tailwind CSS with Framer Motion animations. This portfolio showcases my projects, skills, and contact information. ",  
 };
 
