@@ -25,8 +25,8 @@ const projects = [
     title: "GlotSpot",
     desc: "GlotSpot is an AI-powered language learning app designed to help users master new languages through engaging, personalized, and interactive experiences.",
     devstack: "ReactJS, Firebase, MistralAI, TailwindCSS",
-    link: "#",
-    git: "#",
+    link: "https://glot-spot.vercel.app/",
+    git: "https://github.com/SamaD-01/GlotSpot",
     src: project3
   },
 ];

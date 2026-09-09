@@ -10,8 +10,8 @@ import download from "../assets/Download Animated 3D Icon.gif";
 const About = () => {
     const handleDownload = () => {
         const link = document.createElement('a');
-        link.href = '/samad-cv.pdf';
-        link.download = 'samad-cv.pdf';
+        link.href = '/Abdessamad_AJJA_developpeur_ETNA.pdf';
+        link.download = 'Abdessamad_AJJA_developpeur_ETNA.pdf';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
@@ -45,7 +45,7 @@ const About = () => {
                 />
                 <div className="flex flex-col mt-4">
                     <h2 className='text-2xl font-bold text-white/80'>Education</h2>
-                    <p className='text-lg text-white/70 mt-2'>I am Actually finishing my last year in web dev licence pro.</p>
+                    <p className='text-lg text-white/70 mt-2'>I am Actually preparing my master degree in Computer Science.</p>
                 </div>
             </div>
         </div>
