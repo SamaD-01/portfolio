@@ -18,8 +18,8 @@ const projects = [
     title: "Chatty",
     desc: "Chatty is a real-time chat application built with MERN Stack zustand JWT DaisyUI that allows users to chat with each other.",
     devstack: "MongoDB, Express, React, Node.js, Socket.io",
-    link: "#",
-    git: "#",
+    link: "https://samad-chatty.vercel.app/",
+    git: "https://github.com/SamaD-01/Chatty",
     src: project2
   },{
     title: "GlotSpot",
